@@ -1,7 +1,7 @@
-# Energy Statistics
+# Global Energy Statistics
 
 
-## Dataset Description:
+## 1. Dataset Description:
 <br>
 This dataset contains information on world energy statistics. The dataset is comprised of 11 CSV files and details of each CSV is given below (All the information is in the **Quadrillion British Thermal Unit**): 
 <br>
