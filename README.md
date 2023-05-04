@@ -3,7 +3,8 @@
 
 ## 1. Dataset Description:
 <br>
-This dataset contains information on world energy statistics. The dataset is comprised of 11 CSV files and details of each CSV is given below (All the information is in the **Quadrillion British Thermal Unit**): 
+This dataset contains information on world energy statistics. The dataset is comprised of 11 CSV files and details of each CSV is given below (All the information is in the Quadrillion British Thermal Unit): 
+<br>
 <br>
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F11236145%2F44c1568d71a1fae279051dd542d3c3be%2Fnewplot.png?generation=1682750027461826&alt=media)
