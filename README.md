@@ -28,3 +28,7 @@ Below files contain the **Yearly** data from **1980 to 2021**
 
 Dataset Link: https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics <br>
 Data was collected from the website: [U.S. Energy Information Administration](https://www.eia.gov/) <br>
+
+## 2. Analysis Description:
+
+Detailed EDA and Visualization is done on the dataset using the different python libraries.
